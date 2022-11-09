@@ -1,1 +1,1 @@
-# A Cebuano Language Identifier on Google Colab
+# A Filipino and Cebuano Language Identifier on Google Colab
